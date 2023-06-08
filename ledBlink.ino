@@ -18,10 +18,10 @@ void loop() {
   digitalWrite(ledPin2, HIGH);
   digitalWrite(ledPin3, HIGH);
   digitalWrite(ledPin4, HIGH);
-  delay(500);
+  delay(1000);
   digitalWrite(ledPin, LOW);
   digitalWrite(ledPin2, LOW);
   digitalWrite(ledPin3, LOW);
   digitalWrite(ledPin4, HIGH);
-  delay(500);
+  delay(1000);
 }
