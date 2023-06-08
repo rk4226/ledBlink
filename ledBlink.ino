@@ -1,6 +1,7 @@
 int ledPin = 13;
 int ledPin2 = 14;
-int ledPin 3 = 15;
+int ledPin3 = 15;
+
 
 void setup() {
   // put your setup code here, to run once:
